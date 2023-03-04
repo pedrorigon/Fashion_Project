@@ -16,7 +16,7 @@ The Contact section has an address with uppercase letters, and the footer has a 
 Overall, the website has a professional and modern design that conveys the brand's focus on sustainability and fashion.</p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/61710159/222875156-e402ab38-f5e5-4009-9dcc-19698280677d.jpg" width="1000px" />
+<img src="https://user-images.githubusercontent.com/61710159/222876023-7c239e14-b628-48d7-b8a6-9ff57e946903.png" width="1000px" />
 
 Figura 1 : Final Project.
 </div>
