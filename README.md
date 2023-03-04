@@ -15,6 +15,9 @@ The About section has a background image, a white heading with uppercase letters
 The Contact section has an address with uppercase letters, and the footer has a dark blue background color with white text and a copyright notice.
 Overall, the website has a professional and modern design that conveys the brand's focus on sustainability and fashion.</p>
 
-<div>
-  <img href="https://user-images.githubusercontent.com/61710159/222875156-e402ab38-f5e5-4009-9dcc-19698280677d.jpg" alt"site finished">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/61710159/222875156-e402ab38-f5e5-4009-9dcc-19698280677d.jpg" width="1000px" />
+
+Figura 1 : Final Project.
 </div>
+
